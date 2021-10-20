@@ -75,6 +75,9 @@ a {
   &:hover, &:active {
     color: #333;
   }
+&:visited {
+	color:#444
+	}
 }
 
 ul, ol {
